@@ -1,5 +1,5 @@
-.. zephyr:code-sample:: eventinho2
-   :name: Eventinho2
+.. zephyr:code-sample:: 3threads
+   :name: 3threads
    :relevant-api: gpio_interface
 
    Blink an LED forever using the GPIO API.
